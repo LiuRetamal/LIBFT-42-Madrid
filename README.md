@@ -1,2 +1,2 @@
-# 42-Madrid-Proyects
-Proyectos de 42 Madrid
+# 42-Madrid Libft
+Proyecto de librería de 42 Madrid
